@@ -1,5 +1,5 @@
 # portScan
-A python tool that scans and finds open ports
+Simply scans for open ports on a given IP address.
 
 ### Installation
 1. Clone it:
